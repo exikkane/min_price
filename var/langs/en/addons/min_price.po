@@ -1,0 +1,25 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+
+msgctxt "Addons::name::min_price"
+msgid "Minimum item price"
+msgstr "Minimum item price"
+
+msgctxt "Addons::description::min_price"
+msgid "Changes the default minimum item price. Developed by alarionov | CS-Cart support"
+msgstr "Changes the default minimum item price. Developed by alarionov | CS-Cart support"
+
+msgctxt "SettingsOptions::min_price::min_price"
+msgid "Minimum item price"
+msgstr "Minimum item price"
+
+msgctxt "Languages::min_price.price_should_be_greater"
+msgid "Price should be greater than [min]"
+msgstr "Price should be greater than [min]"
+
+msgctxt "Languages::min_price.product_min_price_updated"
+msgid "Product [product] price was set to [min_price] due to the minimal product price is [min_price]"
+msgstr "Product [product] price was set to [min_price] due to the minimal product price is [min_price]"
