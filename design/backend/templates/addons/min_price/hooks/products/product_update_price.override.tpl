@@ -1,7 +1,7 @@
 {assign var=price value=$product_data.price}
 
 {if $product_data.master_product_id && $runtime.company_id && $product_data.price == 0}
-    {assign var=price value="0.10"}
+    {assign var=price value=$addons.min_price.min_price}
 {/if}
 
 {component name="configurable_page.field" entity="products" tab="detailed" section="information" field="price"}
